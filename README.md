@@ -37,7 +37,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 If you have any questions, suggestions, or feedback, please feel free to reach out.
 
-- Project Link: (https://github.com/ansh-srivastava/mini-voting-system)
+- Project Link: [(https://github.com/ansh-srivastava/mini-voting-system)](https://github.com/ansh-srivastava/Mini-Voting-System.git)
 - Author: Ansh srivastava
 - Email: ansh.srivastava0987@gmail.com
 
