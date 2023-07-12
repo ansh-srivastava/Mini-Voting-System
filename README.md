@@ -1,4 +1,4 @@
-# Mini-Voting-System
+## Mini-Voting-System
 
 This is a mini voting system project implemented in C. The program allows users to add candidates, display the list of candidates with their votes, and cast votes for candidates. The candidates' data is stored in an array of structures.
 
